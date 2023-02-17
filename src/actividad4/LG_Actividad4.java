@@ -7,6 +7,10 @@ public class LG_Actividad4 {
 		for(int i=0; i==5; i++) {
 			System.out.println("Hola");
 		}
+		
+		for(int i=0; i==5; i++) {
+			System.out.println("Hola?");
+		}
 
 	}
 
